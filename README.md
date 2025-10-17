@@ -50,11 +50,6 @@ Ana teknoloji yığım **Django**, **React** ve **Python**’dan oluşuyor. Ayr�
 - **ERP System** – A full-stack ERP platform built with Django and React for streamlined enterprise management.  
   *(Django ve React ile geliştirilen, kurumsal süreçleri optimize eden tam kapsamlı ERP sistemi.)*
 
----
-
-## 📈 GitHub Stats / GitHub İstatistikleri  
-![Cem’s GitHub stats](https://github-readme-stats.vercel.app/api?username=CemKarsli&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CemKarsli&layout=compact&theme=dark)
 
 ---
 
