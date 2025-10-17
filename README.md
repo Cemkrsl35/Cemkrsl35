@@ -55,7 +55,7 @@ Ana teknoloji yığım **Django**, **React** ve **Python**’dan oluşuyor. Ayr�
 
 ## 📫 Contact / İletişim  
 🌐 **LinkedIn:** [https://www.linkedin.com/in/cem-karsl%C4%B1-9209ba251 ](#)  
-✉️ **Email:** cemkarsli35@gmail.com **  
+✉️ **Email:** cemkarsli35@gmail.com ** krsli.cem@gmail.com  
 
 ---
 
